@@ -6,8 +6,8 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {} 
-➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/bots_supported">ʜᴇʀᴇ</a>
-➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 : <a href="https://t.me/AFxSU">ɛӼ_ռöֆ</a>
+➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/kombotzz">ʜᴇʀᴇ</a>
+➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 : <a href="https://t.me/luttappixtg">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝😈</a>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a>
 ➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴𝒐𝒏𝒈𝒐𝑫𝑩</a>
@@ -16,9 +16,9 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/MyBotzz/RashmikaBot">ʜᴇʀᴇ</a>
+- ꜱᴜᴩᴩᴏʀᴛ⚡️ - <a href="https://t.me/KINGOFMOVIES003">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/AFxSU">ɛӼ_ռöֆ__⁷⁷⁷</a></b>"""
+- <a href="https://t.me/luttappixtg">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝😈</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/bots_supported)</code>
+<code>[Button Text](buttonurl:https://t.me/KOMBOTZZ )</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -136,9 +136,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 🍒ɛӼ_ռöֆ__⁷⁷⁷✘⁴✨
-• ᴜꜱᴇʀɴᴀᴍᴇ : @AFxSU
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/AFxSU'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝😈
+• ᴜꜱᴇʀɴᴀᴍᴇ : @LUTTAPPIXTG
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/LUTTAPPIXTG'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -187,7 +187,7 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @bots_supported
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @KINGOFMOVIES003
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
