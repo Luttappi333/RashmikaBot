@@ -21,8 +21,8 @@ BOT_TOKEN = environ['BOT_TOKEN']
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://telegra.ph/file/dafb93083149fef121b71.jpg https://telegra.ph/file/2e62dfb08da980691646e.jpg https://telegra.ph/file/bad7e19cba08410179d2e.jpg https://telegra.ph/file/3f02e076a2aa320c12eb2.jpg https://telegra.ph/file/54f2d41086451e46c4496.jpg https://telegra.ph/file/c6391769de77e51501b55.jpg')).split()
-NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/f2ac735598931279c9fdc.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg')).split()
+NOR_IMG = environ.get("NOR_IMG", "https://telegra.ph/file/2ae90e410284fd3f83c2b.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://telegra.ph/file/4d060a7d48b1fc60579b4.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/8ea7d3d16ef436935d70e.jpg")
 
@@ -46,8 +46,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/bots_supported')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+ip38nA3Tm0A3MGRl')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/KINGOFMOVIES003')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/KOMOFFICIAL ')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bots_supported')
