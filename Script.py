@@ -16,7 +16,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴜᴩᴩᴏʀᴛ⚡️ - <a href="https://t.me/KINGOFMOVIES003">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ⚡️ - <a href="https://github.com/MyBotzz/RashmikaBot">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/luttappixtg">『🍁』༺⋆ͥ⋆ͣ⋆᭄ͫ⁣𓆩𝙻𝚄𝚃𝚃𝙰𝙿𝙿𝙸𓆪➳࿐𝆺𝅥⃝😈</a></b>"""
 
